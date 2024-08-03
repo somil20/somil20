@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @somil20
-- 👀 I’m interested in ... c,c++,python
-- 🌱 I’m currently learning ...c++
+- 👀 I’m interested in ... Kotlin, XML, C,C++
+- 🌱 I’m currently learning ...Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...somilmourya20@gmail.com contactno. 8770469312
 
