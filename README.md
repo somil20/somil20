@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @somil20
-- 👀 I’m interested in ... Kotlin, XML, C,C++
+- 👀 I’m interested in ... Android Devlopement
 - 🌱 I’m currently learning ...Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...somilmourya20@gmail.com contactno. 8770469312
